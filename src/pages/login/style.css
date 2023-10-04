@@ -1,0 +1,11 @@
+.parrent {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+}
+.child {
+    width: 400px;
+    height: 400px;
+    
+}
